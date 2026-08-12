@@ -1,32 +1,18 @@
-# Project Title
+# Analysis of Molecular Dynamics of Amyloid-Beta F19E/F20E Mutant 
+## Overview
 
-Welcome to our BRFP Molecular Dynamics group project repository.
-
-## About This Project
-
-Use this section to provide a brief introduction to your project. In one or two paragraphs, explain:
-
-- The disease or biological problem being studied
-- The protein or peptide involved
-- The systems or conditions being compared
-- The main research question
-- Why molecular dynamics simulation is useful for this project
-
-Replace these instructions with your own project introduction.
+Alzheimer's Disease is a progressive neurodegenerative disease primarily characterized by cognitive decline and dementia. The pathology is driven by accumulation of amyloid-beta plaques in the brain, which disrupt neuronal membrane integrity and can induce widespread neuron death. 
+The aggregation of amyloid-beta plaques is largely caused by hydrophobic interactions between the diphenylalanine (F19 and F20), resulting in "sticky" fibrils that progress the disease. However, mutating these positions to glutamate may result in significant changes in its behavior. This is because glutamate is a polar, negatively charged residue that can introduce electrostatic repulsion at this point rather than polymerization. 
+We aim to investigate how the F19E and F20E mutations affect the behavior of a four-peptide amyloid beta aggregate through molecular dynamics simulation.
 
 ## Team Members
 
-- Student name
-- Student name
-- Student name
+- Allison Huang
+- Isabella Talamo
+- Chelsea Huang
 
 ## Project Objective
-
-Briefly state what your group intends to investigate.
-
-For example:
-
-> The objective of this project is to compare the structural behavior of the wild-type and modified protein using molecular dynamics simulations.
+> This project aims to investigate the differences in behavior between the wild-type and mutatd protin using molecular dynamics simulations
 
 ## Repository Contents
 
@@ -38,30 +24,7 @@ Briefly describe the important files and folders in this repository.
 | `parameters/` | GROMACS `.mdp` parameter files |
 | `figures/` | Final analysis plots and molecular images |
 
-## Writing the README
 
-Write this document using Markdown syntax. Markdown is the formatting language used for GitHub documentation.
-
-Common Markdown examples:
-
-```markdown
-# Main title
-## Section heading
-### Subsection heading
-
-**Bold text**
-
-*Italic text*
-
-- Bullet point
-- Another bullet point
-
-[Link text](https://example.com)
-
-![Image description](figures/image.png)
-
-`short command or filename`
-```
 
 Use clear scientific language and organize the information under appropriate headings. Update this README as the project develops.
 You can also upload link of your final poster here with appropriate description.
